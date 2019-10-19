@@ -15,7 +15,4 @@ Rick                  Hi coders! I want to join your community!
 Sanchez               My name is [Rick] [Sanchez]!             
 English               My native language is [English]! And I'm proud of it!           
 01.01.1949            I was born [01.01.1949]. Not bad, right?          
-Rick c-137            You can contact me like [Rick c-137]. I think we will make friends :) And I wish you                       a great time on our planet.                   
-
-           
-
+Rick c-137            You can contact me like [Rick c-137]. I think we will make friends :) And I wish you a great time on our planet.
