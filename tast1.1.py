@@ -1,8 +1,10 @@
 '''
 Task 1. Who are you?
 
-You flew to the planet of ultra developers. In order for you to be accepted in society, you need to introduce yourself correctly. For this you need to declare yourself. To do this, write your first official submission program, which will display your full name and surname, nickname, email, as well as age and native language.
-
+You flew to the planet of ultra developers.
+In order for you to be accepted in society, you need to introduce yourself correctly.
+For this you need to declare yourself.
+To do this, write your first official submission program, which will display your full name and age.
 The conclusion should be made according to the template:
 
 Hi, my name is [name] [surname] and I`m still alive for [age] days!
